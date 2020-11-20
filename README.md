@@ -1,6 +1,6 @@
-[![iraqthon](https://telegra.ph/file/122a7103f64e88bd97ae4.jpg)](https://heroku.com/deploy)
 
-# Welcome to BOT Iraq Thun Thank you for choosing us. Our channel is here: https://t.me/tele_thon
+
+# Welcome to BOT sina Thank you for choosing us. Our channel is here: https://t.me/tele_thon
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
