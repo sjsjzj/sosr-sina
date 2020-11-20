@@ -1,6 +1,4 @@
-
-
-# Welcome to BOT sina Thank you for choosing us. Our channel is here: https://t.me/tele_thon
+# Welcome to BOT sina Thank 
 
 [![Deploy To Heroku iraqthon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 <p align="center">
